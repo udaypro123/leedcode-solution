@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
