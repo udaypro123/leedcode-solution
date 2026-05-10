@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0001-two-sum/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +64,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
