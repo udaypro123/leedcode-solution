@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,11 +42,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
