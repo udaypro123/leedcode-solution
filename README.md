@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/udaypro123/leedcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/udaypro123/leedcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/udaypro123/leedcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/udaypro123/leedcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
