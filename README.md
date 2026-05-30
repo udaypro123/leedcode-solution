@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/udaypro123/leedcode-solution/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/udaypro123/leedcode-solution/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
