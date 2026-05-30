@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaypro123/leedcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 <!---LeetCode Topics End-->
