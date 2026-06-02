@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/udaypro123/leedcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
