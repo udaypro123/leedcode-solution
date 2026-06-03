@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/udaypro123/leedcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -208,5 +209,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
