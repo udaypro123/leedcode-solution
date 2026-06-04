@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/udaypro123/leedcode-solution/tree/main/0412-fizz-buzz/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 ## Monotonic Stack
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
