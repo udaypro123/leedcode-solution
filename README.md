@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaypro123/leedcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
