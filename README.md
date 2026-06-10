@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/udaypro123/leedcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/udaypro123/leedcode-solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
