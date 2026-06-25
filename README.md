@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
