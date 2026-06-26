@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaypro123/leedcode-solution/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
