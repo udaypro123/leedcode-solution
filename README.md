@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/udaypro123/leedcode-solution/tree/main/0118-pascals-triangle/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
