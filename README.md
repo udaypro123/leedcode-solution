@@ -289,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/udaypro123/leedcode-solution/tree/main/0901-online-stock-span/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/udaypro123/leedcode-solution/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
