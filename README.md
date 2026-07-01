@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/udaypro123/leedcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/udaypro123/leedcode-solution/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/udaypro123/leedcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/udaypro123/leedcode-solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/udaypro123/leedcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/udaypro123/leedcode-solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Stack
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
