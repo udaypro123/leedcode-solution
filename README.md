@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/udaypro123/leedcode-solution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/udaypro123/leedcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/udaypro123/leedcode-solution/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/udaypro123/leedcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/udaypro123/leedcode-solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/udaypro123/leedcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/udaypro123/leedcode-solution/tree/main/0263-ugly-number/) | Easy |
