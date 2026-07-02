@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
+| [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaypro123/leedcode-solution/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/udaypro123/leedcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 ## Union-Find
