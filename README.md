@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/udaypro123/leedcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaypro123/leedcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +340,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
