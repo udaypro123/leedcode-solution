@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/udaypro123/leedcode-solution/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/udaypro123/leedcode-solution/tree/main/0091-decode-ways/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/udaypro123/leedcode-solution/tree/main/0412-fizz-buzz/) | Easy |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -318,4 +321,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/udaypro123/leedcode-solution/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
