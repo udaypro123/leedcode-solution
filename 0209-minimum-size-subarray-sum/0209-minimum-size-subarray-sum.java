@@ -5,7 +5,6 @@ class Solution {
         int track=0;
         int sum=0;
         int min = Integer.MAX_VALUE;
-        boolean flag =false;
         for(int i= start ; i< nums.length ; i++){
                 sum += nums[i];
 
@@ -13,10 +12,9 @@ class Solution {
                     min = Math.min(min, i-track+1);
                     sum -= nums[track];
                     track++;
-                    flag = true;
                 }
         }
         
-        return flag ? min : 0;
+        return  min == Integer.MAX_VALUE ? 0 : min;
     }
 }
