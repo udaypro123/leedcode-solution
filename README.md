@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/udaypro123/leedcode-solution/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0091-decode-ways](https://github.com/udaypro123/leedcode-solution/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/udaypro123/leedcode-solution/tree/main/0118-pascals-triangle/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/udaypro123/leedcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/udaypro123/leedcode-solution/tree/main/0135-candy/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/udaypro123/leedcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
