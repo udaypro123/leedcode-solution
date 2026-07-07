@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/udaypro123/leedcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/udaypro123/leedcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
