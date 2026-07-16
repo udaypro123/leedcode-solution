@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaypro123/leedcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/udaypro123/leedcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/udaypro123/leedcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Tree
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/udaypro123/leedcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/udaypro123/leedcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Bit Manipulation
