@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/udaypro123/leedcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/udaypro123/leedcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/udaypro123/leedcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/udaypro123/leedcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/udaypro123/leedcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/udaypro123/leedcode-solution/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaypro123/leedcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
