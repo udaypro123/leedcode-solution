@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaypro123/leedcode-solution/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaypro123/leedcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/udaypro123/leedcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
