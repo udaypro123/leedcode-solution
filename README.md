@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/udaypro123/leedcode-solution/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/udaypro123/leedcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -403,9 +405,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
