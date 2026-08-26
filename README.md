@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/udaypro123/leedcode-solution/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/udaypro123/leedcode-solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/udaypro123/leedcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/udaypro123/leedcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
