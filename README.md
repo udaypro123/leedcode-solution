@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0091-decode-ways](https://github.com/udaypro123/leedcode-solution/tree/main/0091-decode-ways/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/udaypro123/leedcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/udaypro123/leedcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypro123/leedcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/udaypro123/leedcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/udaypro123/leedcode-solution/tree/main/0075-sort-colors/) | Medium |
@@ -427,4 +429,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/udaypro123/leedcode-solution/tree/main/0164-maximum-gap/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaypro123/leedcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
