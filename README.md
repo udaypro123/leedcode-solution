@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/udaypro123/leedcode-solution/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/udaypro123/leedcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/udaypro123/leedcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/udaypro123/leedcode-solution/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/udaypro123/leedcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/udaypro123/leedcode-solution/tree/main/0263-ugly-number/) | Easy |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/udaypro123/leedcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/udaypro123/leedcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/udaypro123/leedcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/udaypro123/leedcode-solution/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/udaypro123/leedcode-solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/udaypro123/leedcode-solution/tree/main/0392-is-subsequence/) | Easy |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/udaypro123/leedcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/udaypro123/leedcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
