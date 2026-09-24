@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/udaypro123/leedcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaypro123/leedcode-solution/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/udaypro123/leedcode-solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/udaypro123/leedcode-solution/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/udaypro123/leedcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udaypro123/leedcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/udaypro123/leedcode-solution/tree/main/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | Hard |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/udaypro123/leedcode-solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
