@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udaypro123/leedcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0901-online-stock-span](https://github.com/udaypro123/leedcode-solution/tree/main/0901-online-stock-span/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/udaypro123/leedcode-solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/udaypro123/leedcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/udaypro123/leedcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/udaypro123/leedcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0901-online-stock-span](https://github.com/udaypro123/leedcode-solution/tree/main/0901-online-stock-span/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/udaypro123/leedcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaypro123/leedcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/udaypro123/leedcode-solution/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/udaypro123/leedcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/udaypro123/leedcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/udaypro123/leedcode-solution/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
