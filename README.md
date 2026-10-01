@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/udaypro123/leedcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/udaypro123/leedcode-solution/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/udaypro123/leedcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3046-split-the-array](https://github.com/udaypro123/leedcode-solution/tree/main/3046-split-the-array/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/udaypro123/leedcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3046-split-the-array](https://github.com/udaypro123/leedcode-solution/tree/main/3046-split-the-array/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/udaypro123/leedcode-solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3046-split-the-array](https://github.com/udaypro123/leedcode-solution/tree/main/3046-split-the-array/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
