@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/udaypro123/leedcode-solution/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/udaypro123/leedcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/udaypro123/leedcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 | [3046-split-the-array](https://github.com/udaypro123/leedcode-solution/tree/main/3046-split-the-array/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Tree
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/udaypro123/leedcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/udaypro123/leedcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/udaypro123/leedcode-solution/tree/main/0412-fizz-buzz/) | Easy |
+| [0567-permutation-in-string](https://github.com/udaypro123/leedcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/udaypro123/leedcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/udaypro123/leedcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/udaypro123/leedcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/udaypro123/leedcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/udaypro123/leedcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/udaypro123/leedcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/udaypro123/leedcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/udaypro123/leedcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/udaypro123/leedcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/udaypro123/leedcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/udaypro123/leedcode-solution/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
