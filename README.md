@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/udaypro123/leedcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/udaypro123/leedcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/udaypro123/leedcode-solution/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/udaypro123/leedcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/udaypro123/leedcode-solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0547-number-of-provinces](https://github.com/udaypro123/leedcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/udaypro123/leedcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/udaypro123/leedcode-solution/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/udaypro123/leedcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/udaypro123/leedcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/udaypro123/leedcode-solution/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/udaypro123/leedcode-solution/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 ## Sliding Window
